@@ -4,12 +4,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.Xml.Serialization;
 
-namespace BelieveOrNot
+namespace TrueFalseLib
 {
-    class TrueFalse
+    public class TrueFalse
     {
         string fileName;
         List<Question> list;
@@ -41,18 +40,13 @@ namespace BelieveOrNot
             xmlFormat.Serialize(fStream, list);
             fStream.Close();
         }
-        internal void SaveAs()
+        public void SaveAs(string path)
         {
             XmlSerializer xmlFormat = new XmlSerializer(typeof(List<Question>));
-            SaveFileDialog sfd = new SaveFileDialog();
-            sfd.FileName = "Questions";
-            sfd.DefaultExt = "xml";
-            if (sfd.ShowDialog() == DialogResult.OK)
-            {
-                Stream fStream = new FileStream(sfd.FileName, FileMode.Create, FileAccess.Write);
+            
+                Stream fStream = new FileStream(path, FileMode.Create, FileAccess.Write);
                 xmlFormat.Serialize(fStream, list);
                 fStream.Close();
-            }
         }
         public void Load()
         {

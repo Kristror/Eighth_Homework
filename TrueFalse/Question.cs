@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BelieveOrNot
+namespace TrueFalseLib
 {
     [Serializable]
     public class Question

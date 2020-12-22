@@ -1,0 +1,5 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrueFalse\bin\Debug\TrueFalse.dll
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrueFalse\bin\Debug\TrueFalse.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrueFalse\obj\Debug\TrueFalseLib.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrueFalse\obj\Debug\TrueFalse.dll
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrueFalse\obj\Debug\TrueFalse.pdb

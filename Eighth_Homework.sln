@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelieveOrNot", "BelieveOrNo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrustGame2", "TrustGame2\TrustGame2.csproj", "{CDE12E73-8F36-4A02-A061-27DC42F63075}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueFalseLib", "TrueFalse\TrueFalseLib.csproj", "{F9F79A12-A174-4EAE-B567-E361C7A0BA57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CDE12E73-8F36-4A02-A061-27DC42F63075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE12E73-8F36-4A02-A061-27DC42F63075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE12E73-8F36-4A02-A061-27DC42F63075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F79A12-A174-4EAE-B567-E361C7A0BA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F79A12-A174-4EAE-B567-E361C7A0BA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F79A12-A174-4EAE-B567-E361C7A0BA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F79A12-A174-4EAE-B567-E361C7A0BA57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TrueFalseLib;
 
 namespace BelieveOrNot
 {
@@ -76,8 +77,14 @@ namespace BelieveOrNot
         {
             if (database != null)
             {
-                database.SaveAs();
-                MessageBox.Show("База данных сохранена", "Успех");
+                SaveFileDialog sfd = new SaveFileDialog();
+                sfd.FileName = "Questions";
+                sfd.DefaultExt = "xml";
+                if (sfd.ShowDialog() == DialogResult.OK)
+                {
+                    database.SaveAs(sfd.FileName);
+                    MessageBox.Show("База данных сохранена", "Успех");
+                }
             }
             else MessageBox.Show("База данных не создана", "Ошибка");
 
