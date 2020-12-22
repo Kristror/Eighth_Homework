@@ -8,3 +8,6 @@ D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\o
 D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.csproj.CoreCompileInputs.cache
 D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.exe
 D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\bin\Debug\TrueFalse.dll
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\bin\Debug\TrueFalse.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.csproj.CopyComplete

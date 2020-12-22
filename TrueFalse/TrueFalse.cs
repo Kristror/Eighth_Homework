@@ -12,6 +12,8 @@ namespace TrueFalseLib
     {
         string fileName;
         List<Question> list;
+        int numQuestion = -1;
+        public int rightAns = 0;
         public string FileName
         {
             set { fileName = value; }
@@ -29,6 +31,15 @@ namespace TrueFalseLib
         {
             if (list != null && index < list.Count && index >= 0) list.RemoveAt(index);
         }
+
+        public void Check(bool anwser)
+        {
+            if (numQuestion < list.Count)
+            {
+                if (anwser == list[numQuestion].trueFalse) rightAns++;
+            }
+        }
+
         public Question this[int index]
         {
             get { return list[index]; }
@@ -40,6 +51,24 @@ namespace TrueFalseLib
             xmlFormat.Serialize(fStream, list);
             fStream.Close();
         }
+
+        public string Next()
+        {
+            numQuestion++;
+            if (numQuestion < list.Count)
+            {
+                var quest = list[numQuestion];
+                return quest.text;
+            }
+            else return "Конец";
+        }
+
+        public void Restart()
+        {
+            numQuestion = -1;
+            rightAns = 0;
+        }
+
         public void SaveAs(string path)
         {
             XmlSerializer xmlFormat = new XmlSerializer(typeof(List<Question>));
