@@ -1,0 +1,20 @@
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.exe.config
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.exe
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.pdb
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.Form1.resources
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.Properties.Resources.resources
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.exe
+C:\Users\пк\source\repos\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\bin\Debug\BelieveOrNot.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.Form1.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.Properties.Resources.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csproj.GenerateResource.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\BelieveOrNot\obj\Debug\BelieveOrNot.pdb

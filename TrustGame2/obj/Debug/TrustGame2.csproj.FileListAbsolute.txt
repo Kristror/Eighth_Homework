@@ -1,0 +1,10 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\bin\Debug\TrustGame2.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\bin\Debug\TrustGame2.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\bin\Debug\TrustGame2.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.Form1.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.Properties.Resources.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.csproj.GenerateResource.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Eighth_Homework\TrustGame2\obj\Debug\TrustGame2.pdb
